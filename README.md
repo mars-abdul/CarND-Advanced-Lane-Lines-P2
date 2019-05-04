@@ -100,11 +100,12 @@ The below final image shows the identified Lane Area.
   
 ### Provide a link to your final video output. Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!)
 
-The video is stored in output_videos folder.
+The video is stored in output_videos folder and youtube link is provided below.
+To limit the effect of random distortions where lane line is only present as a few dots, I am only taking lane lines where minimum distance between the lanes satisfies a threshold.
 
 <p align="center">
  <a href="https://youtu.be/mlXgRlVa1O4"><img src="./gif.gif" alt="Overview" width="50%" height="50%"></a>
- <br>Results
+ <br>Output
 </p>
 
 ### Briefly discuss any problems / issues you faced in your implementation of this project. Where will your pipeline likely fail? What could you do to make it more robust?
