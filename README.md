@@ -32,7 +32,7 @@ I followed the following steps for distortion correction:
 
 <p>
  <img src="./output_steps/original_chess_cal.png" width="40%" height="40%">Original
- <img src="./output_steps/distortion_corrected_cal.png" width="40%" height="40%">Undistorted
+ <img src="./output_steps/Distortion_corrected_cal.png" width="40%" height="40%">Undistorted
 <br>
 </p>
 
